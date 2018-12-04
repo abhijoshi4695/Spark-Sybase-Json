@@ -16,6 +16,7 @@ dist
 *.sc
 .DS_Store
 src/main/scala/temp/
+src/main/resources/application.conf
 
 *.log
 
